@@ -1,3 +1,8 @@
+= Adding support for Firefox 20 =
+This is a simple update to the existing Selenium-Ruby gem below following guidence from http://www.spacevatican.org/2008/9/27/selenium-and-firefox-3
+
+
+
 = Selenium Ruby[http://selenium.rubyforge.org] - Object-oriented testing with selenium
 
 Homepage::  http://selenium.rubyforge.org
